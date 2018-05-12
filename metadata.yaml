@@ -1,0 +1,32 @@
+_repo: Popery--As-it-Was-and-as-it-IsAlso-Auricular-Confession--And-Popish-Nunneries_37705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hogan, William
+    deathdate: 1848
+    gutenberg_agent_id: '38996'
+    url: http://www.gutenberg.org/2009/agents/38996
+description: ''
+gutenberg_issued: '2011-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcsh 'Convents -- Controversial literature'
+- !lcsh 'Catholic Church -- United States'
+- !lcsh 'Catholic Church -- Doctrines -- Protestant authors'
+- !lcsh 'Jesuits -- Controversial Literature'
+- !lcsh 'Anti-Catholicism'
+- !lcc 'BX'
+- !lcsh 'Papacy -- Controversial literature'
+- !lcsh 'Confession -- Controversial literature'
+title: Popery! As it Was and as it Is. Also, Auricular Confession; And Popish Nunneries
+url: http://www.gutenberg.org/ebooks/37705
